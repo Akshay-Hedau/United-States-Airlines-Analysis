@@ -15,7 +15,7 @@ The objective of this project is to identify the factors that contribute to avoi
 You are also required to build a model to predict if the flight will be delayed.
 
 # Project Task:
-Applied data science with Python
+*Applied data science with Python
 
 1. Import and aggregate data:
 a. Collect information related to flights, airports (e.g., type of airport and elevation), and runways (e.g., length_ft, width_ft, surface, and number of runways). Gather all fields you believe might cause avoidable delays in one dataset.
@@ -44,7 +44,7 @@ c. If the duration of a flight (length) affects flight delays
 
 6. Find the correlation matrix between the flight delay predictors, create a heatmap to visualize this, and share your findings
 
-Machine learning
+*Machine learning
 
 1. Use OneHotEncoder and OrdinalEncoder to deal with categorical variables
 
